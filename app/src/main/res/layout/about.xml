@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".AboutActivity"
+    android:minWidth="@android:dimen/thumbnail_width"
+    android:minHeight="@android:dimen/thumbnail_height">
+
+
+    <ImageView
+        android:layout_width="@android:dimen/thumbnail_width"
+        android:layout_height="@android:dimen/thumbnail_height"
+        android:id="@+id/imageView"
+        android:maxHeight="192dp"
+        android:maxWidth="192dp"
+        android:minHeight="192dp"
+        android:minWidth="192dp"
+        android:background="@drawable/about"
+        android:layout_above="@+id/aboutName"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Name: Rakshith Ravi Kumar"
+        android:id="@+id/aboutName"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dip" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Student Id: 2435138670"
+        android:id="@+id/aboutStdId"
+        android:layout_below="@+id/aboutName"
+        android:layout_alignStart="@+id/aboutName"
+        android:layout_marginTop="2dip" />
+
+</RelativeLayout>

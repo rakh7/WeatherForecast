@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="state_array">
+        <item id="">Select</item>
+        <item id="AL">Alabama</item>
+        <item id="AK">Alaska</item>
+        <item id="AZ">Arizona</item>
+        <item id="AR">Arkansas</item>
+        <item id="CA">California</item>
+        <item id="CO">Colorado</item>
+        <item id="CT">Connecticut</item>
+        <item id="DE">Delaware</item>
+        <item id="DC">District Of Columbia</item>
+        <item id="FL">Florida</item>
+        <item id="GA">Georgia</item>
+        <item id="HI">Hawaii</item>
+        <item id="ID">Idaho</item>
+        <item id="IL">Illinois</item>
+        <item id="IN">Indiana</item>
+        <item id="IA">Iowa</item>
+        <item id="KS">Kansas</item>
+        <item id="KY">Kentucky</item>
+        <item id="LA">Louisiana</item>
+        <item id="ME">Maine</item>
+        <item id="MD">Maryland</item>
+        <item id="MA">Massachusetts</item>
+        <item id="MI">Michigan</item>
+        <item id="MN">Minnesota</item>
+        <item id="MS">Mississippi</item>
+        <item id="MO">Missouri</item>
+        <item id="MT">Montana</item>
+        <item id="NE">Nebraska</item>
+        <item id="NV">Nevada</item>
+        <item id="NH">New Hampshire</item>
+        <item id="NJ">New Jersey</item>
+        <item id="NM">New Mexico</item>
+        <item id="NY">New York</item>
+        <item id="NC">North Carolina</item>
+        <item id="ND">North Dakota</item>
+        <item id="OH">Ohio</item>
+        <item id="OK">Oklahoma</item>
+        <item id="OR">Oregon</item>
+        <item id="PA">Pennsylvania</item>
+        <item id="RI">Rhode Island</item>
+        <item id="SC">South Carolina</item>
+        <item id="SD">South Dakota</item>
+        <item id="TN">Tennessee</item>
+        <item id="TX">Texas</item>
+        <item id="UT">Utah</item>
+        <item id="VT">Vermont</item>
+        <item id="VA">Virginia</item>
+        <item id="WA">Washington</item>
+        <item id="WV">West Virginia</item>
+        <item id="WI">Wisconsin</item>
+        <item id="WY">Wyoming</item>
+    </string-array>
+</resources>
